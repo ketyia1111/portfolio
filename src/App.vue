@@ -7,7 +7,7 @@
     職業はEC系のC#エンジニアです。<br />
     インフラ、セキュリティにも携われるかも♪
   </HeroSection>
-  <SkillsGrid />
+  <SkillsGrid id="skills"/>
   <LicenseTable id="edu-exp" :licenses="licenses" />
   <AppFooter :copyright="copyright" />
 </template>
